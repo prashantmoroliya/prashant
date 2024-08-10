@@ -1,7 +1,7 @@
 baseURL = "https://hugo-theme-shell.netlify.app/"
 languageCode = "en-us"
 title = "Prashant"
-theme = "hugo-theme-shell"
+theme = "shell-retro"
 
 [Params]
     [Params.Terminal]
